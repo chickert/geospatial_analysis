@@ -1,4 +1,4 @@
-# **Population prediction via CNNs and geospatial imagery** #
+# **Population Prediction via CNNs and Geospatial Imagery** #
 ### Spring 2020 | AM216 Final Project
 ### Kaela Nelson, Simon Warchol, Cameron Hickert
 
